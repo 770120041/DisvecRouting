@@ -1,0 +1,4 @@
+forward packet dest 0 nexthop 0 message 4 to 0 first
+forward packet dest 3 nexthop 1 message 0 to 3 first
+forward packet dest 0 nexthop 0 message 4 to 0 second
+forward packet dest 3 nexthop 1 message 0 to 3 second

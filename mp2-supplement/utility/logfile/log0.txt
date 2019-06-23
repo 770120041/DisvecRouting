@@ -1,0 +1,4 @@
+receive packet message 4 to 0 first
+sending packet dest 3 nexthop 255 message 0 to 3 first
+receive packet message 4 to 0 second
+sending packet dest 3 nexthop 255 message 0 to 3 second

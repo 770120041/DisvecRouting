@@ -1,0 +1,5 @@
+receive packet message 1 to 7 first
+unreachable dest 8
+sending packet dest 6 nexthop 4 message 7 to 6 first
+sending packet dest 6 nexthop 4 message 7 to 6 second
+receive packet message 6 to 7 second

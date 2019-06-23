@@ -1,0 +1,8 @@
+forward packet dest 2 nexthop 3 message 1 to 2 first
+forward packet dest 7 nexthop 7 message 1 to 7 first
+sending packet dest 0 nexthop 1 message 4 to 0 first
+forward packet dest 6 nexthop 1 message 7 to 6 first
+forward packet dest 3 nexthop 3 message 0 to 3 first
+sending packet dest 0 nexthop 1 message 4 to 0 second
+forward packet dest 6 nexthop 1 message 7 to 6 second
+forward packet dest 7 nexthop 7 message 6 to 7 second

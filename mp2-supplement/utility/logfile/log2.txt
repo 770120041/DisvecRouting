@@ -1,0 +1,4 @@
+receive packet message 1 to 2 first
+receive packet message 1 to 2 second
+forward packet dest 3 nexthop 3 message 0 to 3 second
+receive packet message 1 to 2 second

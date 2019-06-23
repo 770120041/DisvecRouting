@@ -1,0 +1,931 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-18 22:14:54.375428
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-19 18:07:13.359336
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-20 18:41:37.267604
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-21 19:59:23.444738
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-22 19:34:59.691516
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-23 18:59:44.490902
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-24 18:27:05.205710
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-25 18:55:10.025587
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-26 19:15:27.871954
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-27 19:46:57.616222
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-28 18:48:21.978661
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-01 20:18:05.981401
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-02 19:54:56.896183
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-03 20:06:09.641499
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-06 02:41:29.127484
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-06 20:29:10.558659
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-07 20:04:59.878114
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-08 19:32:56.052373
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-09 20:56:58.917593
+Test Commit ID: e55833cff80ca365d63da6e3327367e684ea5f75
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-10 20:17:08.275260
+Test Commit ID: a03aa137abad9b65cf5027805b4ab08959d9cfa0
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-11 23:12:35.193738
+Test Commit ID: f0daf14fc1ee4f37ffcc113b2d6d839c18bd4449
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+vec_router.c: In function ‘main’:
+vec_router.c:43:37: error: ‘srcAddr’ undeclared (first use in this function); did you mean ‘sockaddr’?
+     inet_pton(AF_INET, "10.0.0.1", &srcAddr.sin_addr);
+                                     ^~~~~~~
+                                     sockaddr
+vec_router.c:43:37: note: each undeclared identifier is reported only once for each function it appears in
+vec_router.c:44:37: warning: passing argument 1 of ‘htonl’ makes integer from pointer without a cast [-Wint-conversion]
+     my_addr.sin_addr.s_addr = htonl(server_ip);
+                                     ^~~~~~~~~
+In file included from vec_router.c:5:0:
+/usr/include/netinet/in.h:377:17: note: expected ‘uint32_t {aka unsigned int}’ but argument is of type ‘char *’
+ extern uint32_t htonl (uint32_t __hostlong)
+                 ^~~~~
+Makefile:17: recipe for target 'vec_router' failed
+make: *** [vec_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-12 22:14:33.396490
+Test Commit ID: 7fcefb1d868e2b9424959cc9a83c88e215373323
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+vec_router.c: In function ‘main’:
+vec_router.c:43:37: error: ‘srcAddr’ undeclared (first use in this function); did you mean ‘sockaddr’?
+     inet_pton(AF_INET, "10.0.0.1", &srcAddr.sin_addr);
+                                     ^~~~~~~
+                                     sockaddr
+vec_router.c:43:37: note: each undeclared identifier is reported only once for each function it appears in
+vec_router.c:44:37: warning: passing argument 1 of ‘htonl’ makes integer from pointer without a cast [-Wint-conversion]
+     my_addr.sin_addr.s_addr = htonl(server_ip);
+                                     ^~~~~~~~~
+In file included from vec_router.c:5:0:
+/usr/include/netinet/in.h:377:17: note: expected ‘uint32_t {aka unsigned int}’ but argument is of type ‘char *’
+ extern uint32_t htonl (uint32_t __hostlong)
+                 ^~~~~
+Makefile:17: recipe for target 'vec_router' failed
+make: *** [vec_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-13 19:09:56.401765
+Test Commit ID: 5bd9a48ac40bd9da5bcff8c765b2ddd302fa2896
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+vec_router.c: In function ‘main’:
+vec_router.c:43:37: error: ‘srcAddr’ undeclared (first use in this function); did you mean ‘sockaddr’?
+     inet_pton(AF_INET, "10.0.0.1", &srcAddr.sin_addr);
+                                     ^~~~~~~
+                                     sockaddr
+vec_router.c:43:37: note: each undeclared identifier is reported only once for each function it appears in
+vec_router.c:44:37: warning: passing argument 1 of ‘htonl’ makes integer from pointer without a cast [-Wint-conversion]
+     my_addr.sin_addr.s_addr = htonl(server_ip);
+                                     ^~~~~~~~~
+In file included from vec_router.c:5:0:
+/usr/include/netinet/in.h:377:17: note: expected ‘uint32_t {aka unsigned int}’ but argument is of type ‘char *’
+ extern uint32_t htonl (uint32_t __hostlong)
+                 ^~~~~
+Makefile:17: recipe for target 'vec_router' failed
+make: *** [vec_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-14 20:15:26.793861
+Test Commit ID: a7e1006e1799c872134590a65431369284af11b3
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+vec_router.c: In function ‘main’:
+vec_router.c:43:37: error: ‘srcAddr’ undeclared (first use in this function); did you mean ‘sockaddr’?
+     inet_pton(AF_INET, "10.0.0.1", &srcAddr.sin_addr);
+                                     ^~~~~~~
+                                     sockaddr
+vec_router.c:43:37: note: each undeclared identifier is reported only once for each function it appears in
+vec_router.c:44:37: warning: passing argument 1 of ‘htonl’ makes integer from pointer without a cast [-Wint-conversion]
+     my_addr.sin_addr.s_addr = htonl(server_ip);
+                                     ^~~~~~~~~
+In file included from vec_router.c:5:0:
+/usr/include/netinet/in.h:377:17: note: expected ‘uint32_t {aka unsigned int}’ but argument is of type ‘char *’
+ extern uint32_t htonl (uint32_t __hostlong)
+                 ^~~~~
+Makefile:17: recipe for target 'vec_router' failed
+make: *** [vec_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-15 19:56:10.837214
+Test Commit ID: 3bc6833b0e19013ccd1f1ada4b5b9aff23a696eb
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-16 19:49:50.282489
+Test Commit ID: 931a976f0698291c6c0568e4f6acf786dd6f9b64
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-17 21:20:21.316123
+Test Commit ID: 667b2a17f19a3345e878877c87d028c26cd49512
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-18 19:56:17.621341
+Test Commit ID: 0cd0d4cbdec4db74299d53fc02055c5e25f6604d
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-19 19:29:15.629989
+Test Commit ID: e1e9df97accd8e67c1129fe5f231d00ee43d7d70
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-20 19:21:11.472297
+Test Commit ID: 0b92947c370323832cf1474f07be48f2eefd98f0
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-21 19:31:52.235872
+Test Commit ID: 9deb6b7567a3e6b7710245be54700936e8e527c5
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-22 20:24:56.555855
+Test Commit ID: cb92d7061f5f71d7ac9b344e60b1f1cb1349aaf1
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-23 19:20:19.509017
+Test Commit ID: f743fd0dbe3e528874bd53e5a107434d867f2869
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-24 19:24:01.026595
+Test Commit ID: 70d1a13a9bda18c184fe5d0a9a50698a411d7f71
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+25/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-25 19:41:49.043152
+Test Commit ID: eea0920b592f147112cbef3256a17e9b751b748c
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 9: DV/PV Sending messages over 3-node topology failed.
+-10	Test Case 10: DV/PV Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 1 4 3.) 
+-10	Test Case 11: DV/PV Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-20	Test Case 12: DV/PV Switching to better path when available failed. 
+-20	Test Case 13: DV/PV Falling back to worse path failed.
+-15	Test Case 14: DV/PV Reporting unreachable after partition failed.
+-10	Test Case 15: DV/PV Healing after partition failed.
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-26 19:47:15.553395
+Test Commit ID: 94ed798cc257e22c398efd9c5624bc0a40b633ba
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-5	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-5	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-10	Test Case 4: LS Switching to better path when available failed. 
+-10	Test Case 5: LS Falling back to worse path failed.
+-7.5	Test Case 6: LS Reporting unreachable after partition: failed.
+-5	Test Case 7: LS Healing after partition failed.
+-5	Test Case 8: LS with lots of link up/downs failed.
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-5	Test Case 10: DV/PV Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 1 4 3.) 
+-5	Test Case 11: DV/PV Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-10	Test Case 12: DV/PV Switching to better path when available failed. 
+-10	Test Case 13: DV/PV Falling back to worse path failed.
+-7.5	Test Case 14: DV/PV Reporting unreachable after partition failed.
+-5	Test Case 15: DV/PV Healing after partition failed.
+-5	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+5/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-27 19:51:15.574920
+Test Commit ID: 61522cb610c511e36980d816bb9c917f9296a0f1
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-5	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-10	Test Case 5: LS Falling back to worse path failed.
+-7.5	Test Case 6: LS Reporting unreachable after partition: failed.
+-5	Test Case 7: LS Healing after partition failed.
+-5	Test Case 8: LS with lots of link up/downs failed.
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-10	Test Case 13: DV/PV Falling back to worse path failed.
+-7.5	Test Case 14: DV/PV Reporting unreachable after partition failed.
+-5	Test Case 15: DV/PV Healing after partition failed.
+-5	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-28 19:43:30.458976
+Test Commit ID: 7785528baaba64488f04ac0d372970fe8d00a475
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-15	Test Case 14: DV/PV Reporting unreachable after partition failed.
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+75/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-29 15:00:00.826652
+Test Commit ID: e5536b08ee3e7a31f34e9e8ee320aa93e9929cee
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-29 21:00:00.501577
+Test Commit ID: 9338aa71471e0105330bd5a88fe094690e933271
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-10	Test Case 11: DV/PV Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 0 reported that node 77 was unreachable. 
+-20	Test Case 12: DV/PV Switching to better path when available failed. 
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+60/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-30 09:00:00.207011
+Test Commit ID: ad1558f8dba841c2582d5c1d443b61b24a035c79
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-10	Test Case 11: DV/PV Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 12: DV/PV Switching to better path when available failed. 
+-20	Test Case 13: DV/PV Falling back to worse path failed.
+-15	Test Case 14: DV/PV Reporting unreachable after partition failed.
+-10	Test Case 15: DV/PV Healing after partition failed.
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-12	Late Penalty: Last commit happens 6 hour(s) after due.
+-------------------- Score --------------------
+3/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-30 16:24:07.117210
+Test Commit ID: 7e4cd9531a2558609ef1399edfee99ff4c9c8bda
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-10	Test Case 11: DV/PV Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 12: DV/PV Switching to better path when available failed. 
+-20	Test Case 13: DV/PV Falling back to worse path failed.
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-10	Test Case 16: DV/PV with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-30 22:00:00.080557
+Test Commit ID: b228024bc22fbce039e4926dfe4fca114227e428
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-31 10:00:00.718296
+Test Commit ID: c9edc600c4857a406be84847127b731863b2a5f5
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-31 16:00:00.604189
+Test Commit ID: 2744041ca610233d7f6c455c2e7d1bb9bda707b5
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-03-31 22:00:00.870655
+Test Commit ID: ee408b7161241c8ebb5b0200c75871bb52f165ae
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-01 10:00:00.835245
+Test Commit ID: 941ea1449d4ca4ceb4cc7b5fe4cc0759208c8855
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-01 16:00:00.897478
+Test Commit ID: 27279c663d2790aadd40ef18abda4b21a59bdd88
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-02 01:55:27.230432
+Test Commit ID: 246f35b101492756935eac75b6e1c7aae03bc32a
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-02 10:00:00.653044
+Test Commit ID: 81a99dbe6d50ea2efe899b50a753a9df3eaaf66d
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-02 16:00:00.764408
+Test Commit ID: 74152ad9ecc02f58925486b024ed6ca59657b725
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-05 02:00:00.316033
+Test Commit ID: e024bc903eddd8c03b1faafde83374e30a9f1a09
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-05 02:00:00.316033
+Test Commit ID: e024bc903eddd8c03b1faafde83374e30a9f1a09
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-04-05 02:00:00.316033
+Test Commit ID: e024bc903eddd8c03b1faafde83374e30a9f1a09
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 9: DV/PV Sending messages over 3-node topology succeeded!
+-0	Test Case 10: DV/PV Shortest path in example topology succeeded!
+-0	Test Case 11: DV/PV Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 12: DV/PV Switching to better path when available succeeded!
+-0	Test Case 13: DV/PV Falling back to worse path succeeded!
+-0	Test Case 14: DV/PV Reporting unreachable after partition succeeded!
+-0	Test Case 15: DV/PV Healing after partition succeeded!
+-0	Test Case 16: DV/PV with lots of link up/downs succeeded!
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
